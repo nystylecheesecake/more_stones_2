@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "more_stones_2:block/verglas_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "more_stones_2:block/verglas_pillar"
+    },
+    "axis=z": {
+      "model": "more_stones_2:block/verglas_pillar",
+      "x": 90
+    }
+  }
+}

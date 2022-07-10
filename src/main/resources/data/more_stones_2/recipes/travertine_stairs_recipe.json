@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:travertine"
+    },
+    "3": {
+      "item": "more_stones_2:travertine"
+    },
+    "4": {
+      "item": "more_stones_2:travertine"
+    },
+    "6": {
+      "item": "more_stones_2:travertine"
+    },
+    "7": {
+      "item": "more_stones_2:travertine"
+    },
+    "8": {
+      "item": "more_stones_2:travertine"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:travertine_stairs",
+    "count": 4
+  }
+}

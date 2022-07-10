@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_stones_2:blocks/sovite_pillar_top",
+    "up": "more_stones_2:blocks/sovite_pillar_top",
+    "north": "more_stones_2:blocks/sovite_pillar",
+    "east": "more_stones_2:blocks/sovite_pillar",
+    "south": "more_stones_2:blocks/sovite_pillar",
+    "west": "more_stones_2:blocks/sovite_pillar",
+    "particle": "more_stones_2:blocks/sovite_pillar_top"
+  }
+}

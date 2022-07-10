@@ -1,0 +1,77 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Verglas"
+      },
+      {
+        "value": "CUSTOM:VerglasBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedVerglasBricks"
+      },
+      {
+        "value": "CUSTOM:VerglasTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglas"
+      },
+      {
+        "value": "CUSTOM:VerglasStairs"
+      },
+      {
+        "value": "CUSTOM:VerglasBrickStairs"
+      },
+      {
+        "value": "CUSTOM:VerglasTileStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasStairs"
+      },
+      {
+        "value": "CUSTOM:VerglasSlab"
+      },
+      {
+        "value": "CUSTOM:VergalsBrickSlab"
+      },
+      {
+        "value": "CUSTOM:VerglasTileSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasSlab"
+      },
+      {
+        "value": "CUSTOM:VerglasWall"
+      },
+      {
+        "value": "CUSTOM:VerglasBrickWall"
+      },
+      {
+        "value": "CUSTOM:VerglasTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasWall"
+      },
+      {
+        "value": "CUSTOM:ChiseledVerglasBricks"
+      },
+      {
+        "value": "CUSTOM:VerglasPillar"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasButton"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasPressurePlate"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "ice_stone",
+    "namespace": "forge"
+  }
+}

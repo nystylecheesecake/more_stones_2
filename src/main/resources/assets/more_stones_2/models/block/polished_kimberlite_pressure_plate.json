@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "more_stones_2:blocks/polished_kimberlite"
+  }
+}

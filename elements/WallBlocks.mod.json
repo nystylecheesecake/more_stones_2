@@ -1,0 +1,122 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:LimestoneWall"
+      },
+      {
+        "value": "CUSTOM:LimestoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:LimestoneTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneWall"
+      },
+      {
+        "value": "CUSTOM:SlateWalls"
+      },
+      {
+        "value": "CUSTOM:SlateBrickWall"
+      },
+      {
+        "value": "CUSTOM:SlateTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSlateWall"
+      },
+      {
+        "value": "CUSTOM:TravertineWall"
+      },
+      {
+        "value": "CUSTOM:TravertineBrickWall"
+      },
+      {
+        "value": "CUSTOM:TravertineTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTravertineWall"
+      },
+      {
+        "value": "CUSTOM:LateriteWall"
+      },
+      {
+        "value": "CUSTOM:LateriteBrickWall"
+      },
+      {
+        "value": "CUSTOM:LateriteTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLateriteWall"
+      },
+      {
+        "value": "CUSTOM:VerglasWall"
+      },
+      {
+        "value": "CUSTOM:VerglasBrickWall"
+      },
+      {
+        "value": "CUSTOM:VerglasTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedVerglasWall"
+      },
+      {
+        "value": "CUSTOM:SoulStoneWall"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBrickWAll"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneWall"
+      },
+      {
+        "value": "CUSTOM:NoriteWall"
+      },
+      {
+        "value": "CUSTOM:NoriteBrickWall"
+      },
+      {
+        "value": "CUSTOM:NoriteTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedNoriteWall"
+      },
+      {
+        "value": "CUSTOM:KimberliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKimberliteWall"
+      },
+      {
+        "value": "CUSTOM:KimberliteBrickWall"
+      },
+      {
+        "value": "CUSTOM:KimberliteTileWall"
+      },
+      {
+        "value": "CUSTOM:SoviteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSoviteWall"
+      },
+      {
+        "value": "CUSTOM:SoviteBrickWall"
+      },
+      {
+        "value": "CUSTOM:SoviteTileWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "1": {
+      "item": "more_stones_2:polished_norite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_norite_pressure_plate",
+    "count": 1
+  }
+}

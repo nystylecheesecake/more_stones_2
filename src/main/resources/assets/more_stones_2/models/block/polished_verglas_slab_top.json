@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "more_stones_2:blocks/polished_verglas",
+    "top": "more_stones_2:blocks/polished_verglas",
+    "side": "more_stones_2:blocks/polished_verglas"
+  }
+}

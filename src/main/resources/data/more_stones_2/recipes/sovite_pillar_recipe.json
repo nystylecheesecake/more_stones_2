@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:sovite"
+    },
+    "1": {
+      "item": "more_stones_2:sovite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:sovite_pillar",
+    "count": 2
+  }
+}

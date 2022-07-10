@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_stones_2:polished_norite"
+    }
+  ],
+  "result": {
+    "item": "more_stones_2:polished_norite_button",
+    "count": 1
+  }
+}

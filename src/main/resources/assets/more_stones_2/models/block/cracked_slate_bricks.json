@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_stones_2:blocks/slate_bricks_cracked",
+    "particle": "more_stones_2:blocks/slate_bricks_cracked"
+  }
+}

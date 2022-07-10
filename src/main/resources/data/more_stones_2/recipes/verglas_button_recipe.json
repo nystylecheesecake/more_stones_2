@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_stones_2:polished_verglas"
+    }
+  ],
+  "result": {
+    "item": "more_stones_2:polished_verglas_button",
+    "count": 1
+  }
+}

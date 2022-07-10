@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:laterite"
+    },
+    "1": {
+      "item": "more_stones_2:laterite"
+    },
+    "2": {
+      "item": "more_stones_2:laterite"
+    },
+    "3": {
+      "item": "more_stones_2:laterite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_laterite",
+    "count": 4
+  }
+}

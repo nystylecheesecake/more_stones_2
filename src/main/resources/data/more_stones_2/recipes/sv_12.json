@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "more_stones_2:polished_sovite"
+  },
+  "result": "more_stones_2:polished_sovite_slab"
+}

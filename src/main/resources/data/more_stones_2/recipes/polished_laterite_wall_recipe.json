@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_laterite"
+    },
+    "1": {
+      "item": "more_stones_2:polished_laterite"
+    },
+    "2": {
+      "item": "more_stones_2:polished_laterite"
+    },
+    "3": {
+      "item": "more_stones_2:polished_laterite"
+    },
+    "4": {
+      "item": "more_stones_2:polished_laterite"
+    },
+    "5": {
+      "item": "more_stones_2:polished_laterite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_laterite_wall",
+    "count": 6
+  }
+}

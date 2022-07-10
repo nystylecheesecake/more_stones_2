@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:verglas"
+    },
+    "3": {
+      "item": "more_stones_2:verglas"
+    },
+    "4": {
+      "item": "more_stones_2:verglas"
+    },
+    "6": {
+      "item": "more_stones_2:verglas"
+    },
+    "7": {
+      "item": "more_stones_2:verglas"
+    },
+    "8": {
+      "item": "more_stones_2:verglas"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:verglas_stairs",
+    "count": 4
+  }
+}

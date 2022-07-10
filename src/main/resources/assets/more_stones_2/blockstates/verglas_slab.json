@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_stones_2:block/verglas_slab"
+    },
+    "type=top": {
+      "model": "more_stones_2:block/verglas_slab_top"
+    },
+    "type=double": {
+      "model": "more_stones_2:block/verglas_slab_full"
+    }
+  }
+}

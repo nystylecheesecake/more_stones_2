@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "more_stones_2:blocks/kimberlite",
+    "top": "more_stones_2:blocks/kimberlite",
+    "side": "more_stones_2:blocks/kimberlite"
+  }
+}

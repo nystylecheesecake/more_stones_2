@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_stones_2:polished_travertine"
+    }
+  ],
+  "result": {
+    "item": "more_stones_2:polished_travertine_button",
+    "count": 1
+  }
+}

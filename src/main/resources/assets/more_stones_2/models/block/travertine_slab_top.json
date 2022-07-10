@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "more_stones_2:blocks/travertine_new",
+    "top": "more_stones_2:blocks/travertine_new",
+    "side": "more_stones_2:blocks/travertine_new"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SoulStone"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedSoulStoneBricks"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:SoulStoneStairs"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBrickStairs"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTileStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneStairs"
+      },
+      {
+        "value": "CUSTOM:SoulStoneSlab"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTileSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneSlab"
+      },
+      {
+        "value": "CUSTOM:SoulStoneWall"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBrickWAll"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTileWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "soul_speed_blocks",
+    "namespace": "minecraft"
+  }
+}

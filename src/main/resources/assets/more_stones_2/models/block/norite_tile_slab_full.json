@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_stones_2:blocks/norite_tiles_new",
+    "top": "more_stones_2:blocks/norite_tiles_new",
+    "side": "more_stones_2:blocks/norite_tiles_new"
+  }
+}

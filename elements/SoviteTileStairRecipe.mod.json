@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SoviteTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SoviteTiles"
+      },
+      {
+        "value": "CUSTOM:SoviteTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SoviteTiles"
+      },
+      {
+        "value": "CUSTOM:SoviteTiles"
+      },
+      {
+        "value": "CUSTOM:SoviteTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SoviteTileStairs"
+    },
+    "name": "sovite_tile_stair_recipe",
+    "namespace": "mod"
+  }
+}

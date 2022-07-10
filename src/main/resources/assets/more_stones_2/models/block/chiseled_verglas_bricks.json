@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_stones_2:blocks/verglas_chiseled",
+    "particle": "more_stones_2:blocks/verglas_chiseled"
+  }
+}

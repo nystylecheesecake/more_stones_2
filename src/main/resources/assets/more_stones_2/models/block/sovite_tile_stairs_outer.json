@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "more_stones_2:blocks/sovite_tiles",
+    "top": "more_stones_2:blocks/sovite_tiles",
+    "side": "more_stones_2:blocks/sovite_tiles"
+  }
+}

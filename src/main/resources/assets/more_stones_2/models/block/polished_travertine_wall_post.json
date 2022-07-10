@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "more_stones_2:blocks/travertine_polished",
+    "particle": "more_stones_2:blocks/travertine_polished"
+  }
+}

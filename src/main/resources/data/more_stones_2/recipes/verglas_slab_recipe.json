@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:verglas"
+    },
+    "1": {
+      "item": "more_stones_2:verglas"
+    },
+    "2": {
+      "item": "more_stones_2:verglas"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:verglas_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "1": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "2": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "3": {
+      "item": "more_stones_2:soul_stone"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_soul_stone_tiles",
+    "count": 4
+  }
+}

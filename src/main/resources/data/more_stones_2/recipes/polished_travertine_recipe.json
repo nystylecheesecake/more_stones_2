@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:travertine"
+    },
+    "1": {
+      "item": "more_stones_2:travertine"
+    },
+    "2": {
+      "item": "more_stones_2:travertine"
+    },
+    "3": {
+      "item": "more_stones_2:travertine"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_travertine",
+    "count": 4
+  }
+}

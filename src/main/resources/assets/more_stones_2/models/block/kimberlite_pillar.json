@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_stones_2:blocks/kimberlite_pillar_top_side",
+    "up": "more_stones_2:blocks/kimberlite_pillar_top_side",
+    "north": "more_stones_2:blocks/kimberlite_pillar_side",
+    "east": "more_stones_2:blocks/kimberlite_pillar_side",
+    "south": "more_stones_2:blocks/kimberlite_pillar_side",
+    "west": "more_stones_2:blocks/kimberlite_pillar_side",
+    "particle": "more_stones_2:blocks/kimberlite_pillar_top_side"
+  }
+}

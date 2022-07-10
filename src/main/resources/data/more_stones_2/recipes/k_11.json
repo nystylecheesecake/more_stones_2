@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "more_stones_2:kimberlite_bricks"
+  },
+  "result": "more_stones_2:kimberlite_brick_wall"
+}

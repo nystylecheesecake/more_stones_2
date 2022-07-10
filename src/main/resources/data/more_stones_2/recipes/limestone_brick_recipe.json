@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_limestone"
+    },
+    "1": {
+      "item": "more_stones_2:polished_limestone"
+    },
+    "2": {
+      "item": "more_stones_2:polished_limestone"
+    },
+    "3": {
+      "item": "more_stones_2:polished_limestone"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:limestone_bricks",
+    "count": 4
+  }
+}

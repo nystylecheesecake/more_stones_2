@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SlateTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SlateTiles"
+      },
+      {
+        "value": "CUSTOM:SlateTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SlateTiles"
+      },
+      {
+        "value": "CUSTOM:SlateTiles"
+      },
+      {
+        "value": "CUSTOM:SlateTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SlateTileStairs"
+    },
+    "name": "slate_tile_stair_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "more_stones_2:blocks/sovite_polished"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SoviteBricks"
+    },
+    "name": "sovite_bricks_recipe",
+    "namespace": "mod"
+  }
+}

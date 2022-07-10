@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "more_stones_2:blocks/laterite_tiles_2",
+    "top": "more_stones_2:blocks/laterite_tiles_2",
+    "side": "more_stones_2:blocks/laterite_tiles_2"
+  }
+}

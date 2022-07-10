@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_stones_2:blocks/soul_stone_pillar_top_new",
+    "up": "more_stones_2:blocks/soul_stone_pillar_top_new",
+    "north": "more_stones_2:blocks/soul_stone_pillar_side",
+    "east": "more_stones_2:blocks/soul_stone_pillar_side",
+    "south": "more_stones_2:blocks/soul_stone_pillar_side",
+    "west": "more_stones_2:blocks/soul_stone_pillar_side",
+    "particle": "more_stones_2:blocks/soul_stone_pillar_top_new"
+  }
+}

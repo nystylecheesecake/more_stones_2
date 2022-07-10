@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:soul_stone_bricks"
+    },
+    "1": {
+      "item": "more_stones_2:soul_stone_bricks"
+    },
+    "2": {
+      "item": "more_stones_2:soul_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:soul_stone_brick_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "3": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "4": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "6": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "7": {
+      "item": "more_stones_2:soul_stone"
+    },
+    "8": {
+      "item": "more_stones_2:soul_stone"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:soul_stone_stairs",
+    "count": 4
+  }
+}

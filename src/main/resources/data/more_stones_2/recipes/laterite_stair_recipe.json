@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:laterite"
+    },
+    "3": {
+      "item": "more_stones_2:laterite"
+    },
+    "4": {
+      "item": "more_stones_2:laterite"
+    },
+    "6": {
+      "item": "more_stones_2:laterite"
+    },
+    "7": {
+      "item": "more_stones_2:laterite"
+    },
+    "8": {
+      "item": "more_stones_2:laterite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:laterite_stairs",
+    "count": 4
+  }
+}

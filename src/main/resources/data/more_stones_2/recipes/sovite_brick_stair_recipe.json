@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:sovite_bricks"
+    },
+    "3": {
+      "item": "more_stones_2:sovite_bricks"
+    },
+    "4": {
+      "item": "more_stones_2:sovite_bricks"
+    },
+    "6": {
+      "item": "more_stones_2:sovite_bricks"
+    },
+    "7": {
+      "item": "more_stones_2:sovite_bricks"
+    },
+    "8": {
+      "item": "more_stones_2:sovite_bricks"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:sovite_brick_stairs",
+    "count": 4
+  }
+}

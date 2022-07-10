@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "1": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "2": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "3": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "4": {
+      "item": "more_stones_2:polished_norite"
+    },
+    "5": {
+      "item": "more_stones_2:polished_norite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_norite_wall",
+    "count": 6
+  }
+}

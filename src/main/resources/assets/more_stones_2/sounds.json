@@ -1,0 +1,22 @@
+{
+  "the_underground_soundtrack": {
+    "category": "record",
+    "subtitle": "subtitles.the_underground_soundtrack",
+    "sounds": [
+      {
+        "name": "more_stones_2:the-underground",
+        "stream": true
+      }
+    ]
+  },
+  "stones_soundtrack": {
+    "category": "record",
+    "subtitle": "subtitles.stones_soundtrack",
+    "sounds": [
+      {
+        "name": "more_stones_2:stones",
+        "stream": true
+      }
+    ]
+  }
+}

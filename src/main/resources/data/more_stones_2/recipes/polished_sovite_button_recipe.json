@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_sovite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_sovite_button",
+    "count": 1
+  }
+}

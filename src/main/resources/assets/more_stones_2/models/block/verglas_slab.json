@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "more_stones_2:blocks/verglas_new_1",
+    "top": "more_stones_2:blocks/verglas_new_1",
+    "side": "more_stones_2:blocks/verglas_new_1"
+  }
+}

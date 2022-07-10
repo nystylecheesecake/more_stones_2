@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:slate"
+    },
+    "1": {
+      "item": "more_stones_2:slate"
+    },
+    "2": {
+      "item": "more_stones_2:slate"
+    },
+    "3": {
+      "item": "more_stones_2:slate"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_slate",
+    "count": 4
+  }
+}

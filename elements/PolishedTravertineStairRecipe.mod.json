@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      },
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      },
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      },
+      {
+        "value": "CUSTOM:PolishedTravertine"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedTravertineStairs"
+    },
+    "name": "polished_travertine_stair_recipe",
+    "namespace": "mod"
+  }
+}

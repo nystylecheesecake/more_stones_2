@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      },
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      },
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      },
+      {
+        "value": "CUSTOM:KimberliteBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:KimberliteBrickStairs"
+    },
+    "name": "kimberlite_brick_stair_recipe",
+    "namespace": "mod"
+  }
+}

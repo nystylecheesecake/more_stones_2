@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "more_stones_2:verglas_bricks"
+  },
+  "result": "more_stones_2:verglas_brick_stairs"
+}

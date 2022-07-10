@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "more_stones_2:blocks/laterite_tiles_2",
+    "particle": "more_stones_2:blocks/laterite_tiles_2"
+  }
+}

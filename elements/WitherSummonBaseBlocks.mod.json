@@ -1,0 +1,35 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SoulStone"
+      },
+      {
+        "value": "CUSTOM:SoulStoneBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedSoulStoneBricks"
+      },
+      {
+        "value": "CUSTOM:SoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:ChiseledSoulStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledSoulStoneBricks"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "wither_summon_base_blocks",
+    "namespace": "minecraft"
+  }
+}

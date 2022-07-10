@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_stones_2:block/polished_soul_stone_slab"
+    },
+    "type=top": {
+      "model": "more_stones_2:block/polished_soul_stone_slab_top"
+    },
+    "type=double": {
+      "model": "more_stones_2:block/polished_soul_stone_slab_full"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "more_stones_2:soul_stone_bricks",
+    "more_stones_2:soul_stone_tile_stairs",
+    "more_stones_2:polished_soul_stone_slab",
+    "more_stones_2:soul_stone",
+    "more_stones_2:soul_stone_stairs",
+    "more_stones_2:soul_stone_wall",
+    "more_stones_2:soul_stone_tile_slab",
+    "more_stones_2:soul_stone_brick_w_all",
+    "more_stones_2:soul_stone_brick_stairs",
+    "more_stones_2:polished_soul_stone_tiles",
+    "more_stones_2:cracked_soul_stone_bricks",
+    "more_stones_2:soul_stone_tiles",
+    "more_stones_2:soul_stone_slab",
+    "more_stones_2:polished_soul_stone_wall",
+    "more_stones_2:soul_stone_tile_wall",
+    "more_stones_2:soul_stone_brick_slab",
+    "more_stones_2:polished_soul_stone_stairs"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "more_stones_2:norite_bricks"
+  },
+  "result": "more_stones_2:norite_brick_slab"
+}

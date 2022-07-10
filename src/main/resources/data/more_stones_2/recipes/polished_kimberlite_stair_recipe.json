@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:polished_kimberlite"
+    },
+    "3": {
+      "item": "more_stones_2:polished_kimberlite"
+    },
+    "4": {
+      "item": "more_stones_2:polished_kimberlite"
+    },
+    "6": {
+      "item": "more_stones_2:polished_kimberlite"
+    },
+    "7": {
+      "item": "more_stones_2:polished_kimberlite"
+    },
+    "8": {
+      "item": "more_stones_2:polished_kimberlite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:polished_kimberlite_stairs",
+    "count": 4
+  }
+}

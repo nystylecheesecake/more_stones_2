@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:slate_brick_slab"
+    },
+    "1": {
+      "item": "more_stones_2:slate_brick_slab"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:chiseled_slate_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:sovite"
+    },
+    "1": {
+      "item": "more_stones_2:sovite"
+    },
+    "2": {
+      "item": "more_stones_2:sovite"
+    },
+    "3": {
+      "item": "more_stones_2:sovite"
+    },
+    "4": {
+      "item": "more_stones_2:sovite"
+    },
+    "5": {
+      "item": "more_stones_2:sovite"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:sovite_wall",
+    "count": 6
+  }
+}

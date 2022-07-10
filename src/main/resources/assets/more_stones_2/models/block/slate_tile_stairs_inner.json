@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "more_stones_2:blocks/slate_tiles",
+    "top": "more_stones_2:blocks/slate_tiles",
+    "side": "more_stones_2:blocks/slate_tiles"
+  }
+}

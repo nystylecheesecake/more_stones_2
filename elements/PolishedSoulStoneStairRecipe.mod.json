@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      },
+      {
+        "value": "CUSTOM:PolishedSoulStoneTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedSoulStoneStairs"
+    },
+    "name": "polished_soul_stone_stair_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "more_stones_2:blocks/soul_stone_bricks_new",
+    "particle": "more_stones_2:blocks/soul_stone_bricks_new"
+  }
+}

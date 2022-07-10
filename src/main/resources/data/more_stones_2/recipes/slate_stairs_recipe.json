@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_stones_2:slate"
+    },
+    "3": {
+      "item": "more_stones_2:slate"
+    },
+    "4": {
+      "item": "more_stones_2:slate"
+    },
+    "6": {
+      "item": "more_stones_2:slate"
+    },
+    "7": {
+      "item": "more_stones_2:slate"
+    },
+    "8": {
+      "item": "more_stones_2:slate"
+    }
+  },
+  "result": {
+    "item": "more_stones_2:slate_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "more_stones_2:blocks/sovite_tiles",
+    "particle": "more_stones_2:blocks/sovite_tiles"
+  }
+}

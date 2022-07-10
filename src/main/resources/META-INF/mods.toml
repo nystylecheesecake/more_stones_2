@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="more_stones_2"
+version="1.60"
+displayName="More Stones II"
+credits="This mod is by nystylecheesecake"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/more-stones-ii"
+logoFile="logo.png"
+authors="nystylecheesecake, CoconutFreak, Onvious65, Bamboozlee"
+description='''
+Adds More Stone Types And Variants To Minecraft
+'''
+
+[[dependencies.more_stones_2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

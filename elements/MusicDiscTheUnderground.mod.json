@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_stones_new",
+    "name": "Music Disc",
+    "description": "GlitchyMC - the underground",
+    "creativeTab": {
+      "value": "CUSTOM:MoreStoneII"
+    },
+    "music": {
+      "value": "CUSTOM:the_underground_soundtrack"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

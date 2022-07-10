@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LateriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LateriteBricks"
+      },
+      {
+        "value": "CUSTOM:LateriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LateriteBricks"
+      },
+      {
+        "value": "CUSTOM:LateriteBricks"
+      },
+      {
+        "value": "CUSTOM:LateriteBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LateriteBrickStairs"
+    },
+    "name": "laterite_brick_stair_recipe",
+    "namespace": "mod"
+  }
+}

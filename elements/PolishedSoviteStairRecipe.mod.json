@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      },
+      {
+        "value": "CUSTOM:PolishedSovite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedSoviteStairs"
+    },
+    "name": "polished_sovite_stair_recipe",
+    "namespace": "mod"
+  }
+}
